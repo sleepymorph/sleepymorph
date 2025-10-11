@@ -38,6 +38,7 @@ I'm a **PCB engineer**, and im curious about electronics all the time, from Embe
 
 
 ## 💬 Contact
+If you need some help or advice with EasyEDA or just pcb designing - then text me:
 - **Discord:** `Sleepymorph`
 - **Telegram:** `@ifyouask3d`
 
