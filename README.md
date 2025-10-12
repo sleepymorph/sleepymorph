@@ -5,7 +5,7 @@ I'm a **PCB engineer**, and im curious about electronics all the time, from Embe
 ## 🧠 About Me
 - I design custom PCBs and embedded hardware projects.  
 - I work mainly with **ESP32**, **RF modules**, and **various sensors**.  
-- I use **EasyEDA STD** for PCB design and doing schematics — because *EasyEDA in my opinion, EasyEDA STD Is the best PCB Designing app for beginners. I dont do big projects, instead i do small and medium PCBs with MCUs like Esp32 or Arduino, and thats why im okay with EasyEDA. Im pretty sure that KiCad is cool too, but its more for proffesionals. EasyEDA teaches me how to trace my own lines on PCBs, which gives me more experience.*.  
+- I use **EasyEDA STD** for PCB design and doing schematics — because *in my opinion, EasyEDA STD Is the best PCB Designing app for beginners. I dont do big projects, instead i do small and medium PCBs with MCUs like Esp32 or Arduino, and thats why im okay with EasyEDA. Im pretty sure that KiCad is cool too, but its more for proffesionals. EasyEDA teaches me how to trace my own lines on PCBs, which gives me more experience.*.  
 
 ## 🧰 Tools & Skills
 - **PCB Design:** EasyEDA STD  
